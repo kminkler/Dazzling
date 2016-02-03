@@ -1,0 +1,19 @@
+{
+    "name": "kminkler/Dazzling",
+    "description": "Forked from ????/Dazzling",
+    "keywords": ["wp","wordpress", "themes", "Dazzling"],
+    "homepage": "https://github.com/kminkler/Dazzling",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keith Minkler",
+            "email": "kminkler@gmail.com",
+            "homepage": "http://www.everlastingrealty.com/",
+            "role": "Developer"
+        }
+    ],
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
